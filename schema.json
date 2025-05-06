@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HomeAndConstructionBusiness",
+  "name": "Handy Expertt",
+  "image": "https://handyexpertt.com/images/logo.png",
+  "telephone": "815-529-4412",
+  "email": "jimmyp@allstealdeck.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "IL",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "YOUR_LATITUDE",
+    "longitude": "YOUR_LONGITUDE"
+  },
+  "areaServed": ["Northwest Chicago Suburbs", "Roscoe", "Huntley"],
+  "priceRange": "$$",
+  "sameAs": [
+    "YOUR_FACEBOOK_URL",
+    "YOUR_GOOGLE_BUSINESS_URL"
+  ]
+} 
